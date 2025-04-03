@@ -1,6 +1,14 @@
 import 'package:flutter/material.dart';
 
 class AppColors {
+  static const Color page1Color = Colors.teal;
+  static const Color page2Color = Colors.blue;
+  static const Color page3Color = Colors.purple;
+
+  // Common colors
+  static const Color white = Colors.white;
+  static const Color grey = Colors.grey;
+
   static const primary = Color(0xffef233c);
   static const secondary = Color(0xff272b30);
   static const primaryBackground = Color(0xff1a1d1f);
